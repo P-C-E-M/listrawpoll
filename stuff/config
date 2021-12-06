@@ -4,22 +4,22 @@
 	bare = false
 	logallrefupdates = true
 [remote "origin"]
-	url = https://github.com/hyperbotauthor/listrawpoll
+	url = https://github.com/P-C-E-M/listrawpoll
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [remote "gitlab"]
-	url = https://gitlab.com/hyperchessbotauthor/listrawpoll.git
+	url = https://gitlab.com/P-C-E-M/listrawpoll.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [user]
-	name = hyperbotauthor
-	email = hyperchessbotauthor@gmail.com
-	[credential "https://github.com/hyperbotauthor/listrawpoll"]
-		username = hyperbotauthor
-	[credential "https://gitlab.com/hyperchessbotauthor/listrawpoll.git"]
-		username = hyperchessbotauthor
+	name =Ganidu
+	email = ganidu.yapa2011@gmail.com
+	[credential "https://github/P-C-E-M/listrawpoll"]
+		username = P-C-E-M
+	[credential "https://gitlab.com/P-C-E-M/listrawpoll.git"]
+		username = P-C-E-M
 	
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
 [remote "upstream"]
-	url = https://github.com/hyperbotauthor/listrawpoll
+	url = https://github.com/P-C-E-M/listrawpoll
 	fetch = +refs/heads/*:refs/remotes/upstream/*
